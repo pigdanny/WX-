@@ -1,0 +1,103 @@
+.movieinfo.data-v-4e9af184 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #F5F6F8;
+}
+.movieinfo .movie.data-v-4e9af184 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.movieinfo .movie image.data-v-4e9af184 {
+  width: 110px;
+  height: 150px;
+  border-radius: 5px;
+}
+.movieinfo .movie .movie_msg.data-v-4e9af184 {
+  margin-left: 10px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  background-color: #F5F6F8;
+}
+.movieinfo .movie .movie_msg view.data-v-4e9af184:nth-child(1) {
+  font-weight: bold;
+  font-size: 16px;
+}
+.movieinfo .movie .movie_msg view.data-v-4e9af184:nth-child(2) {
+  color: #A0A1A3;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.movieinfo .movie .movie_msg view.data-v-4e9af184:nth-child(3) {
+  color: #A0A1A3;
+  font-size: 10px;
+  margin: 10px 0 20px;
+}
+.movieinfo .movie .movie_msg .btn.data-v-4e9af184 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.movieinfo .movie .movie_msg .btn text.data-v-4e9af184 {
+  display: inline-block;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+.movieinfo .movie_rate.data-v-4e9af184 {
+  margin-top: 20px;
+  padding: 2px 5px;
+  background-color: #FFFFFF;
+}
+.movieinfo .movie_rate text.data-v-4e9af184 {
+  font-size: 12px;
+  font-weight: bold;
+}
+.movieinfo .movie_rate .star.data-v-4e9af184 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-top: 10px;
+  padding: 10px 0;
+}
+.movieinfo .movie_rate .star text.data-v-4e9af184 {
+  font-size: 24px;
+}
+.movieinfo .movie_msg > text.data-v-4e9af184 {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 20px 0 10px;
+}
+.movieinfo .movie_msg view.data-v-4e9af184 {
+  font-size: 14px;
+}
+

@@ -1,0 +1,10 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "榜单",
+  "navigationBarBackgroundColor": "#ffffff",
+  "backgroundTextStyle": "dark",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-rate": "/node-modules/@dcloudio/uni-ui/lib/uni-rate/uni-rate"
+  }
+}
